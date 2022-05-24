@@ -1,6 +1,6 @@
 # Visual Studio Code Discussions
 
-Ever want a place where you can connect with other VS Code users? Where you can ask questions, share ideas, and help out others? Then you've come to the right place!
+Ever want somewhere that you can connect with other VS Code users? Where you can ask questions, share ideas, and help out others? Then you've come to the right place!
 
 This project's sole purpose is to implement GitHub Discussions for VS Code, moderated by the VS Code PM and Advocacy teams. The goal of Discussions is to have a searchable forum where people can communicate with the VS Code community, ask and answer questions, share updates, and more. Navigate to the [Discussions](https://github.com/microsoft/vscode-discussions/discussions) section of this repo to check it out!
 
