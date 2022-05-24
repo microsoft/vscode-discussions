@@ -8,7 +8,7 @@ This project's sole purpose is to implement GitHub Discussions for VS Code, mode
 
 ## Participating
 
-Anyone is welcome to open a new discussion topic or to reply to current ones! We want this to be a thriving place of discussion, and we need your participation to do so.
+Anyone is welcome to open a new discussion or to reply to current ones! We want this to be a thriving place of community, and we need your participation to do so.
 
 Like every other Microsoft project, we have adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/), which amounts to this: **please be kind in this community and remember that there are real people on the other side of the keyboard.**
 For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
