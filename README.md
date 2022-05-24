@@ -1,33 +1,26 @@
-# Project
+# Visual Studio Code Discussions
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Ever want a place where you can connect with other VS Code users? Where you can ask questions, share ideas, and help out others? Then you've come to the right place!
 
-As the maintainer of this project, please make a few updates:
+This project's sole purpose is to implement GitHub Discussions for VS Code, moderated by the VS Code PM and Advocacy teams. The goal of Discussions is to have a searchable forum where people can communicate with the VS Code community, ask and answer questions, share updates, and more. Navigate to the [Discussions](https://github.com/microsoft/vscode-discussions/discussions) section of this repo to check it out!
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+> Looking to contribute to VS Code or to file an issue? Please visit the official [VS Code repo](https://github.com/microsoft/vscode)!
 
-## Contributing
+## Participating
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+Anyone is welcome to open a new discussion topic or to reply to current ones! We want this to be a thriving place of discussion, and we need your participation to do so.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+Like every other Microsoft project, we have adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/), which amounts to this: **please be kind in this community and remember that there are real people on the other side of the keyboard.**
+For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any questions or comments. 
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+In addition to the code of conduct, keep these general guidelines in mind when participating:
 
-## Trademarks
+- GitHub Discussions use categories to help organize discussion topics. As we begin to build this community, we ask that you limit conversations to the categories available (more categories will be released as the community grows!) 
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+- Before opening a new discussion, please search existing posts to see if the topic thread already exists.
+
+- Please do not use this as a place to @ your favorite engineer to get an extra bump on a feature request. Spoiler: it won't work.
+
+Happy discussing! :)
+
