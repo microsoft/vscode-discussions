@@ -8,10 +8,11 @@ We are scoping discussions to just extension development to learn, experiment, a
 
 Other places to participate with VS Code:
 
-- 🔎 `"Help: Report Issue"` is VS Code's built-in command to 🐛 report bugs, 🐌 performance issues, 👍 and feature requests.
+- 🔎 `"Help: Report Issue"` is VS Code's built-in command to 🐛 report bugs, 🐌 performance issues, and 💡 feature requests.
 - 🏠 [VS Code repo](https://github.com/microsoft/vscode) for triaging issues and upvoting [feature requests](https://go.microsoft.com/fwlink/?LinkID=533482), and [contributing](https://github.com/microsoft/vscode/wiki/How-to-Contribute).
 - 📚 [StackOverflow](https://stackoverflow.com/questions/tagged/vscode) for general VS Code questions.
 - 💬 [Extension Dev Slack](https://aka.ms/vscode-dev-community) for chatting with other extension authors.
+- 🩻 [Extension API Documentation](https://code.visualstudio.com/api) and [code samples](https://github.com/microsoft/vscode-extension-samples) for learning and contributing documentation improvements.
 
 
 ### We need your participation
@@ -28,3 +29,13 @@ Also:
 
 Happy discussing! :)
 
+### FAQ
+
+**How can I help?**
+Answer questions with empathy and kindness. Keep the community welcoming by giving contructive feedback and reporting unacceptable behavior. Reach out if you like to help with moderation.
+
+**Why are there just categories for extension development?**
+We want to start small, and the extension author community is just the right size. Meanwhile [StackOverflow](https://stackoverflow.com/questions/tagged/visual-studio-code?tab=Newest) continues to serve most other questions.
+
+**When will more categories be added?**
+As we learn what works well, tweak our moderation process, and see the community grow before expanding topics. If we see moderation becoming a burden on the team we will also consider take action.
